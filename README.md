@@ -92,5 +92,8 @@ B.Tech – Artificial Intelligence and Data Science
 Machine Learning – Practical Activity 1
 
 ---
+## Reference
 
-*This project is developed as part of the Machine Learning academic practical activities.*
+This activity is completed as part of the RCA practical assignment.
+
+Reference: [Complexiota GitHub](https://github.com/complexiota)
