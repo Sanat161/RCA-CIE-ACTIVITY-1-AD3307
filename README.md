@@ -14,7 +14,7 @@ The project demonstrates the complete Machine Learning workflow, starting from d
 | Roll Number | AD3307 |
 | Division | C |
 | Branch | B.Tech – Artificial Intelligence and Data Science |
-| Subject | Machine Learning |
+| Subject | RCA |
 | Activity | Activity 1 |
 
 ## 🎯 Objectives
